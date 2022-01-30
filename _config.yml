@@ -4,6 +4,9 @@ title: "Ben Eyal"
 title_separator: "-"
 name: "Ben Eyal"
 
+plugins:
+  - jekyll-include-cache
+
 author:
   name: "Ben Eyal"
   avatar: "/assets/images/profile.png"

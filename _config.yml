@@ -13,7 +13,7 @@ plugins:
 
 author:
   name: "Ben Eyal"
-  avatar: "/assets/images/profile.png"
+  avatar: "/assets/images/profile_small.png"
   bio: "Working on my PhD in Natural Language Processing @ BGU"
   location: Be'er Sheva, Israel
   links:

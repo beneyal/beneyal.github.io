@@ -12,3 +12,7 @@ Ben Eyal, Michael Elhadad
 2. **Semantic Decomposition of Question and SQL for Text-to-SQL Parsing** (EMNLP Findings 2023)  
 Ben Eyal, Moran Mahabi, Ophir Haroche, Amir Bachar, Michael Elhadad  
 <i class="far fa-file-pdf"></i> [PDF](https://aclanthology.org/2023.findings-emnlp.910.pdf) &nbsp; &nbsp; <i class="fab fa-github"></i> [Code](https://github.com/bgunlp/qpl)
+
+3. **Text-to-SQL Parsing: Using Execution Plans as an Intermediate Language** (PhD thesis)  
+Ben Eyal  
+<i class="far fa-file-pdf"></i> [PDF](/assets/docs/PhD_Thesis.pdf) &nbsp; &nbsp; <i class="fab fa-github"></i> [Code](https://github.com/bgunlp/qpl)

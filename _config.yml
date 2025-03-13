@@ -14,7 +14,7 @@ plugins:
 author:
   name: "Ben Eyal"
   avatar: "/assets/images/profile_small.png"
-  bio: "Software Engineer @ AI2"
+  bio: "Research Engineer @ Ai2"
   location: Rehovot, Israel
   links:
     - label: "GitHub"
